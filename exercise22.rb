@@ -30,4 +30,4 @@ puts "We'd have #{beans} beans #{jars} jars and #{crates} crates."
 
 start_point = start_point/10
 puts "We can also do this way."
-puts "We'd have %s beans, %d jars, and %d crates." % secret_formula(start_point)
+puts "We'd have %s beans, %d jars, and  %i crates." % secret_formula(start_point)
