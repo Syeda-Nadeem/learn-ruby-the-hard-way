@@ -1,1 +1,2 @@
-# learn-ruby-the-hard-way
+Learn Ruby The Hard Way -- Zed Shaw 
+
